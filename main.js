@@ -194,15 +194,16 @@ window.addEventListener('load', function () {
 
   //positing mutation div
   document.getElementById("mutation").style.marginTop=hofc/1.5+"px";
-  document.getElementById("mutation").style.marginLeft=wofc/2-35+"px";
+  document.getElementById("mutation").style.marginLeft=wofc/2-30+"px";
 
   document.getElementById("alertmutation").style.marginTop=hofc/1.5-60+"px";
   document.getElementById("alertmutation").style.marginLeft=wofc/2-125+"px";
 
   document.getElementById("arrowmutation").style.marginTop=hofc/1.5+10+"px";
-  document.getElementById("arrowmutation").style.marginLeft=wofc/2-20+"px";
+  document.getElementById("arrowmutation").style.marginLeft=wofc/2-15+"px";
 
 
 
 //end
-});
+})
+
